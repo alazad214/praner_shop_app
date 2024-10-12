@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1097888533695",
+    "firebase_url": "https://fir-clud-e5959-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-clud-e5959",
+    "storage_bucket": "fir-clud-e5959.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097888533695:android:fffec2513888cef601ca0a",
+        "android_client_info": {
+          "package_name": "com.example.praner_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu9G7Y6DJiXk6Lp8Sr4R5NctC9_xsqIio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
